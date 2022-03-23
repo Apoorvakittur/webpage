@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html style="background-color: lightskyblue;">
+  <h1 style="background-color: rgb(9, 54, 201);">RESUME WEBPAGE</h1>
+  <p style="background-color:rgb(45, 141, 185)"><b>SOFTWARE ENGINEERING STUDENT</b></p>
+  <img src="C:\Users\apopoo\Pictures\resize.jpg";>
+  <h2 style="background-color:rgb(45, 141, 185)">C O N T A C T</h2>
+  <ul><b>
+  <li>Street city: Hubli</li>
+    <li>e-mail: kitturapoorva@gmail.com</li>
+    <li>Ph.no: 8095823162</li>
+    <li>Residence: navanagar</li></b>
+  </ul> 
+  <h2 style="background-color:rgb(45, 141, 185)">ABOUT MYSELF</h2>
+  <p><b>Myself Apoorva,right now a computer science engineering student studying at KLE Institute Of Technology,i joined engineering in 2020 and now i have completed my first year of engineering succesfully and im very excited for anither three years of engineering and i would like to look forward for innotivate things that need to be carried out through my engineering life. I am able to handle multiple tasks on a daily basis.I am always energetic and eager to learn new skills.I am determined,I get on well with all kinds of people,I like to keep a positive attitude,I don’t easily lose my temper,I enjoy meeting new people every day,If necessary, I can be assertive without being rude.</b></p>
+  <h2 style="background-color:rgb(45, 141, 185)">MY SKILLS<h3>
+  <ul>
+     <li>Singing</li>
+     <li>Dancing</li>
+     <li>Cracking jokes</li>
+     <li>Often drawing</li>
+  </ul>
+  <h2 style="background-color:rgb(45, 141, 185)">LANGUAGES</h2>
+  <ul><b>
+      <li>English</li>
+      <li>Kannada</li>
+      <li>Hindi</li>
+  </b></UL>
+  <h2 style="background-color:rgb(45, 141, 185)">EDUCATION</h2>
+  <ul><b>
+      <li>Completed sslc in 2018</li>
+      <li>Completed puc in 2020</li>
+      <li>Joined engineering in 2020</li>
+      <li>Currently studying in 3rd sem and still going</li></b>
+  </ul>
+  <h2 style="background-color:rgb(45, 141, 185)">DREAM CAREER</h2>
+  <p><b>Being a trustworthy employee, I want to serve in a well developed software company and carryout various innovative projects,and do some service to the society.</b></p>
+   <h3><b>"I hereby declare that all the information furnished above is true to the best of my belief".</b></h3>
